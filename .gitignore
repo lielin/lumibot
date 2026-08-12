@@ -21,6 +21,7 @@ generated-docs/
 docsrc/_build/
 **/*.pkl
 .pytest*
+.secrets/*
 
 # Development files
 venv*
